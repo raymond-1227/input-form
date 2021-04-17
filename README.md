@@ -1,7 +1,7 @@
 # Input Form
 
 ## About
-Just a input form tempate that looks like Google authentication prompt!
+Just an input form tempate that looks like Google authentication prompt!
 
 ## Example Template
 
